@@ -17,4 +17,4 @@ I make open source robots named after dinosaurs. Hey, everyone needs a hobby.
 - Arduino Uno
 - [Adafruit Motor Shield](http://learn.adafruit.com/adafruit-motor-shield/overview)
 
-![[Raptor picture](raptorArduino/raptor.jpg)
+![Raptor picture](raptorArduino/raptor.jpg)
