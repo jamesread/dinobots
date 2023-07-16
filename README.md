@@ -12,7 +12,7 @@ I make open source robots named after dinosaurs. Hey, everyone needs a hobby.
 
 ## Raptor ##
 
-2 motor robot-like chassis.
+2 motor rover-like chassis.
 
 - Arduino Uno
 - [Adafruit Motor Shield](http://learn.adafruit.com/adafruit-motor-shield/overview)
